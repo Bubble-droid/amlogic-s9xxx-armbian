@@ -233,7 +233,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - CaptainJack
 
 env:
   TZ: America/New_York
